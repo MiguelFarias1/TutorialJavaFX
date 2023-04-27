@@ -1,13 +1,16 @@
-# Projeto JAVAFX
+# TutorialJavaFX
 
-![Imagem do projeto](./assets/imagem.png)
+![Imagem do Projeto](./assets/Imagem.png)
 
-<h1>Tecnologias utilizadas </h1>
+<h1>Tecnologias utilizadas no projeto</h1>
 
-[SceneBuilder](https://gluonhq.com/products/scene-builder/)
+[Maven](https://maven.apache.org/)
 
-[JavaFx](https://openjfx.io/)
+[SceneBuilder](https://maven.apache.org/)
 
-[IntelliJ](https://gluonhq.com/products/scene-builder/)
+[JavaFX](https://www.jetbrains.com/pt-br/idea/download/)
 
-[Java 17 LTS](https://gluonhq.com/products/scene-builder/)
+[Java 17 LTS](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
+
+[IntelliJ Idea](https://www.jetbrains.com/pt-br/idea/download/)
+
